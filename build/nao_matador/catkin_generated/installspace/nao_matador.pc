@@ -1,0 +1,8 @@
+prefix=/home/nao/group_b_final_project/install
+
+Name: nao_matador
+Description: Description of nao_matador
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime actionlib_msgs actionlib

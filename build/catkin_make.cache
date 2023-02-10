@@ -1,0 +1,2 @@
+nao_matador
+-DCATKIN_DEVEL_PREFIX=/home/nao/group_b_final_project/devel -DCMAKE_INSTALL_PREFIX=/home/nao/group_b_final_project/install -G Unix Makefiles
